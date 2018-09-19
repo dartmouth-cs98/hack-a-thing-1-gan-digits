@@ -1,2 +1,2 @@
 # Generative Adversarial Network
-# For Digit Regocnition and Creation
+## For Digit Regocnition and Creation
