@@ -14,6 +14,8 @@ A generative adversarial network (DCGAN) is pairing between a descriminitive and
 ![iteration 3000](https://imgur.com/VxguyMA.jpg "3000")
 ![iteration 12000](https://imgur.com/W975hvX.jpg "12000")
 
+![Model](https://cloud.githubusercontent.com/assets/24938377/26761929/22a1ba9e-4956-11e7-84ba-a404162771af.png "model")
+
 ### What did I learn?
 
 I used this project to learn two main things. The first was to learn how a GAN operates and why they work. This led me to learn about activation functions, loss functions, convolutions, gradient descent, etc. The second thing I learned while working on this project is how to use TensorFlow to actually implement neural networks. While I am still not 100% comfortable using the library, this was nonetheless a great step in the right direction. I also learned how to use Jupyter, and how to use IPython's "magic function expressions".
