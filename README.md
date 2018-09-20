@@ -3,7 +3,7 @@
 ##### Tom Young, 2018
 ##### From Felix Mohr's [Tutorial](https://towardsdatascience.com/implementing-a-generative-adversarial-network-gan-dcgan-to-draw-human-faces-8291616904a)
 ### What is it?
-A generative adversarial network (DCGAN) is pairing between a descriminitive and generative neural network. As the descriminitive network is trained to recognize digits, the generative network tries to fool it by taking a latent vector of noise and performing convolutions on the vector in order to create an image that the descriminator might see as a number. If the descriminator fails the generator, it's loss function is used to adjust the weights on the generative network, allowing for "training" of the generative network.
+A generative adversarial network (GAN) is pairing between a descriminitive and generative neural network. As the descriminitive network is trained to recognize digits, the generative network tries to fool it by taking a latent vector of noise and performing convolutions on the vector in order to create an image that the descriminator might see as a number. If the descriminator fails the generator, it's loss function is used to adjust the weights on the generative network, allowing for "training" of the generative network.
 
 ![GAN](http://www.shashwatverma.com/assets/images/gans-cover.jpg "GAN")
 
