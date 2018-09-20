@@ -6,7 +6,6 @@ A deep convolutional generative adversarial network (DCGAN) is pairing between a
 
 ![GAN](http://www.shashwatverma.com/assets/images/gans-cover.jpg "GAN")
 
-![iteration 0](https://i.imgur.com/Saaw5wK.jpg "0")
 ![iteration 50](https://imgur.com/envIF9e.jpg "50")
 ![iteration 150](https://imgur.com/e0uvADk.jpg "150")
 ![iteration 500](https://imgur.com/P2xANqR.jpg "500")
